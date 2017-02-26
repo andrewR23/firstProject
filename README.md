@@ -1,2 +1,2 @@
 # firstProject
-A test 
+A test project to see how GitHub works. 
